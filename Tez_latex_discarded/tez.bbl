@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\providecommand{\urlprefix}{}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{abrahart98}
+\textbf{Abrahart, R.J.} {\textbf{\baglac}} \textbf{See, L.} (1998). Neural
+  Network vs. ARMA Modelling: Constructing Benchmark Case Studies of River Flow
+  Prediction, \emph{Proceedings of the Third International Conference on
+  GeoComputation}, University of Bristol, United Kingdom.
+
+\end{thebibliography}
